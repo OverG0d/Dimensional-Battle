@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 4da8f70b278dd4c4bb74aeebfc412db0
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: MECH_Skel(Clone)
+      parentName: 
+      position: {x: -0, y: 0.00572155, z: 1.110223e-18}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+    - name: Cylinder017
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.004053802, y: 0.08180676, z: 0.6887824}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.006239, y: 1.006239, z: 3.872332}
+    - name: Cylinder022
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.3004692, y: 0.10338352, z: 0.7311141}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1.726889, y: 1.726889, z: 1.726889}
+    - name: Cylinder024
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.3008319, y: -0.16273887, z: 0.7157245}
+      rotation: {x: 0.0000000031141232, y: 0.7071068, z: 0.70710677, w: -0.00000008623567}
+      scale: {x: 1.886825, y: 1.886825, z: 1.46891}
+    - name: Box045
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.30037293, y: -0.052083015, z: 0.73620445}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.094457, y: 1.55179, z: 2.094457}
+    - name: Box046
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.30030903, y: 0.012665195, z: 0.6453008}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.174167, y: 1.726889, z: 2.327931}
+    - name: Box048
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.30017075, y: -0.29102963, z: 0.7311536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box050
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.30037293, y: -0.059821308, z: 0.7145575}
+      rotation: {x: 0, y: -0.38268346, z: -0, w: 0.9238795}
+      scale: {x: 1.062866, y: 1.279458, z: 1.313401}
+    - name: Cylinder035
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.3006978, y: -0.2182086, z: 0.73082954}
+      rotation: {x: 0.7071068, y: -3.4863056e-31, z: 3.4863056e-31, w: 0.7071067}
+      scale: {x: 2.761647, y: 2.761647, z: 0.578445}
+    - name: Object010
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.40807983, y: 0.08402147, z: 0.9096552}
+      rotation: {x: -0.7071068, y: 0.7071068, z: -0.00000013767881, w: 0.00000013767877}
+      scale: {x: 1.290155, y: 1.630124, z: 1.630124}
+    - name: Box067
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.30612794, y: 0.11785965, z: 0.77488714}
+      rotation: {x: 0.000000059604645, y: 0, z: -0, w: 1}
+      scale: {x: 2.031469, y: 1, z: 1}
+    - name: Thigh
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.1982788, y: 0.1298591, z: 0.59849656}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thigh_low
+      parentName: Thigh
+      position: {x: 0.3551109, y: -0.10332262, z: -0.20831752}
+      rotation: {x: 0.5000001, y: 0, z: -0, w: 0.8660253}
+      scale: {x: 1.739302, y: 1.338963, z: 1.720177}
+    - name: Plane001
+      parentName: Thigh
+      position: {x: 0.031793974, y: -0.023657912, z: -0.12296581}
+      rotation: {x: 0.6830127, y: -0.18301354, z: -0.68301255, w: 0.18301234}
+      scale: {x: 1.568432, y: 1.806891, z: 1.398869}
+    - name: Object012
+      parentName: Thigh
+      position: {x: 0.021291962, y: -0.040931396, z: -0.10646099}
+      rotation: {x: 0.1678883, y: -0.68688697, z: -0.1678883, w: 0.6868867}
+      scale: {x: 0.75227, y: 0.75227, z: 1.708841}
+    - name: Cylinder005
+      parentName: Thigh
+      position: {x: 0.016317597, y: -0.16240266, z: -0.23516239}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: 0.50000006}
+      scale: {x: 2.369242, y: 2.369242, z: 6.649556}
+    - name: Calf
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.23292542, y: -0.032286346, z: 0.3629814}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object003
+      parentName: Calf
+      position: {x: 0.34291428, y: -0.00016513348, z: 0.00022254944}
+      rotation: {x: 0.4020097, y: -4.4319576e-10, z: 1.6678768e-10, w: 0.9156354}
+      scale: {x: 0.326414, y: 2.087027, z: 1.836675}
+    - name: Box035
+      parentName: Calf
+      position: {x: 0.047694243, y: 0.023622308, z: -0.065927885}
+      rotation: {x: -0.00000006975091, y: 0.9238788, z: -0.38268518, w: 0.000000028891922}
+      scale: {x: 3.105084, y: 3.136453, z: 1.836676}
+    - name: Cylinder010
+      parentName: Calf
+      position: {x: 0.41635558, y: 0.15834722, z: -0.13372894}
+      rotation: {x: -0, y: -0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 2.311393, y: 2.311393, z: 0.900614}
+    - name: Ankle..?
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.18914062, y: 0.1260662, z: 0.22919738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box033
+      parentName: Ankle..?
+      position: {x: 0.3507637, y: -0.00029838562, z: -0.00016647339}
+      rotation: {x: 0.2705981, y: -0.6532815, z: -0.2705981, w: 0.6532814}
+      scale: {x: 2.316461, y: 3.955772, z: 3.716076}
+    - name: Box036
+      parentName: Ankle..?
+      position: {x: 0.3726448, y: 0.118442, z: -0.085632935}
+      rotation: {x: 0.122787826, y: -0.1227878, z: 0.69636434, w: 0.6963642}
+      scale: {x: 1.118566, y: 0.997638, z: 1.253854}
+    - name: Box037
+      parentName: Ankle..?
+      position: {x: 0.3726448, y: 0.079400025, z: -0.107003555}
+      rotation: {x: 0.24184483, y: 0.24184494, z: -0.66446275, w: 0.6644633}
+      scale: {x: 0.678143, y: 0.60483, z: 0.760163}
+    - name: Cylinder012
+      parentName: Ankle..?
+      position: {x: 0.37280396, y: 0.088463746, z: -0.10272919}
+      rotation: {x: 0.24184485, y: 0.24184495, z: -0.6644627, w: 0.6644633}
+      scale: {x: 0.694967, y: 0.619834, z: 0.694967}
+    - name: Cylinder011
+      parentName: Ankle..?
+      position: {x: 0.3722191, y: 0.10560749, z: -0.09343864}
+      rotation: {x: 0.27059808, y: -0.27059796, z: 0.65328157, w: 0.65328145}
+      scale: {x: 1.118566, y: 0.997639, z: 1.118566}
+    - name: Cylinder009
+      parentName: Ankle..?
+      position: {x: 0.3731529, y: 0.15620983, z: 0.020399552}
+      rotation: {x: -0.3826836, y: 5.647527e-10, z: -0.0000000013634329, w: 0.9238795}
+      scale: {x: 1.200558, y: 1.346082, z: 2.058592}
+    - name: Cylinder014
+      parentName: Ankle..?
+      position: {x: 0.37481704, y: -0.040567283, z: -0.13568404}
+      rotation: {x: -0, y: -0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 2.16212, y: 2.16212, z: 0.661948}
+    - name: foot
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.19214293, y: 0.085499704, z: 0.09323707}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box039
+      parentName: foot
+      position: {x: 0.37713867, y: -0.034420278, z: -0.019113269}
+      rotation: {x: -0.5372995, y: -7.5243e-16, z: -1.3682385e-15, w: 0.8433915}
+      scale: {x: 2.401508, y: 2.316462, z: 2.316461}
+    - name: Object004
+      parentName: foot
+      position: {x: 0.33092788, y: -0.08055558, z: -0.076464534}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: 0.50000006}
+      scale: {x: 2.31646, y: 5.13528, z: 0.687443}
+    - name: Cylinder013
+      parentName: foot
+      position: {x: 0.3774414, y: 0.028162459, z: -0.041744307}
+      rotation: {x: -0, y: -0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 1.826385, y: 1.826385, z: 0.923335}
+    - name: Box069
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.0036799621, y: 0.10596725, z: 0.6290433}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder037
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.07024567, y: 0.039999064, z: 0.63056153}
+      rotation: {x: 0.21263117, y: 0.67437977, z: 0.21263117, w: 0.67437965}
+      scale: {x: 5.582203, y: 5.582203, z: 6.592655}
+    - name: Cylinder004
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.015584411, y: 0.13110638, z: 0.5989615}
+      rotation: {x: 0.29883632, y: -0.6408563, z: -0.29883632, w: 0.6408564}
+      scale: {x: 0.622878, y: 0.622878, z: 1.618462}
+    - name: Shoulder
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.2946106, y: 0.104567066, z: 1.0378813}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder018
+      parentName: Shoulder
+      position: {x: 0.028744658, y: 0, z: 0}
+      rotation: {x: -0.50000006, y: 0.50000006, z: 0.49999994, w: -0.4999999}
+      scale: {x: 2.11954, y: 2.11954, z: 2.145649}
+    - name: Box042
+      parentName: Shoulder
+      position: {x: 0.02687851, y: 0.04922775, z: -0.00035797118}
+      rotation: {x: 0.70710695, y: 0, z: -0, w: 0.7071066}
+      scale: {x: 2.102561, y: 2.102561, z: 4.655503}
+    - name: Cylinder021
+      parentName: Shoulder
+      position: {x: -0.010655518, y: 0.007950859, z: -0.00076385494}
+      rotation: {x: 0.50000006, y: 0.49999997, z: 0.5, w: -0.5}
+      scale: {x: 3.613681, y: 3.613681, z: 0.679092}
+    - name: UpperArm
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.30526596, y: 0.109438606, z: 1.0372193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object006
+      parentName: UpperArm
+      position: {x: 0.00041282654, y: 0.003042221, z: -0.00031433106}
+      rotation: {x: -0.000000199496, y: 0.7071067, z: 0.7071068, w: -0.0000001376788}
+      scale: {x: 3.613681, y: 3.613681, z: 0.679092}
+    - name: Box051
+      parentName: UpperArm
+      position: {x: 0.0002028656, y: 0, z: -0.018218078}
+      rotation: {x: -0, y: -0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 1.400922, y: 1.551475, z: 1.551475}
+    - name: Cylinder034
+      parentName: UpperArm
+      position: {x: -0.0013217926, y: 0.0036389923, z: -0.25510162}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.120207, y: 1.120207, z: 1.902573}
+    - name: ForeArm
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.30759552, y: 0.1133064, z: 0.77489156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder033
+      parentName: ForeArm
+      position: {x: 0.0041978452, y: -0.0000045394895, z: -0.00019233703}
+      rotation: {x: 0.7071069, y: -0.00000034437576, z: 0.70710665, w: 0.00000034437588}
+      scale: {x: 4.884369, y: 4.884369, z: 0.679092}
+    - name: Box083
+      parentName: ForeArm
+      position: {x: -0.007405853, y: -0.21475503, z: -0.0059078215}
+      rotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1.220918, z: 1}
+    - name: Object011
+      parentName: ForeArm
+      position: {x: -0.007693481, y: -0.0042646215, z: -0.057854537}
+      rotation: {x: -0.70710707, y: 0.0000000010435268, z: -0.0000000010435264, w: 0.7071066}
+      scale: {x: 1.200558, y: 1.346082, z: 2.058592}
+    - name: Cylinder020
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.2561154, y: 0.104567066, z: 1.0378813}
+      rotation: {x: -0.50000006, y: 0.50000006, z: 0.49999994, w: -0.4999999}
+      scale: {x: 1.956998, y: 1.956998, z: 1.830274}
+    - name: Plane002
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.1557985, y: -0.13229759, z: 1.0449935}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: -0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box082
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.24651961, y: -0.07176737, z: 1.0558845}
+      rotation: {x: 0.20262529, y: -2.4814874e-17, z: -1.4821732e-17, w: 0.9792564}
+      scale: {x: 4.329682, y: 0.981052, z: 0.9096}
+    - name: Box066
+      parentName: MECH_Skel(Clone)
+      position: {x: 0.003422699, y: -0.15303978, z: 0.9810601}
+      rotation: {x: -0.0027682744, y: 0, z: -0, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere001
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.15095626, y: 0.021478081, z: 1.2238276}
+      rotation: {x: -0.08296265, y: -0.09239075, z: -0.63954437, w: 0.7586595}
+      scale: {x: 0.241368, y: 0.241368, z: 0.241368}
+    - name: Box084
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.18037796, y: 0.10516748, z: 1.0367123}
+      rotation: {x: 0, y: 0, z: -0.04361935, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box086
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.31561705, y: -0.22682115, z: 0.66397405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.282766, y: 1.60746, z: 2.944603}
+    - name: UpperBody
+      parentName: MECH_Skel(Clone)
+      position: {x: -0.008228455, y: 0.08941433, z: 0.97934103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box081
+      parentName: UpperBody
+      position: {x: 0.04934555, y: -0.16118169, z: 0.07654343}
+      rotation: {x: 0.2026252, y: -2.4814877e-17, z: -1.4821733e-17, w: 0.9792564}
+      scale: {x: 4.329682, y: 0.981052, z: 0.9096}
+    - name: Box071
+      parentName: UpperBody
+      position: {x: 0.0014268493, y: -0.050827723, z: -0.039115448}
+      rotation: {x: 0.10316168, y: -0.6995411, z: -0.103161626, w: 0.69954103}
+      scale: {x: 0.896613, y: 0.992936, z: 1}
+    - name: Box079
+      parentName: UpperBody
+      position: {x: -0.0005552673, y: -0.21961516, z: 0.060085602}
+      rotation: {x: 0.1844511, y: -2.2425836e-17, z: -1.1949487e-16, w: 0.98284173}
+      scale: {x: 0.655813, y: 0.983966, z: 0.906446}
+    - name: Box073
+      parentName: UpperBody
+      position: {x: 0.0022084045, y: -0.25754794, z: 0.015203094}
+      rotation: {x: 0.42261824, y: 0, z: -0, w: 0.9063078}
+      scale: {x: 0.576928, y: 0.576928, z: 0.576928}
+    - name: Box074
+      parentName: UpperBody
+      position: {x: 0.0022084045, y: -0.26033613, z: -0.0072273253}
+      rotation: {x: 0.42261824, y: 0, z: -0, w: 0.9063078}
+      scale: {x: 0.576928, y: 0.576928, z: 0.576928}
+    - name: Box075
+      parentName: UpperBody
+      position: {x: 0.0022084045, y: -0.26173607, z: -0.026826171}
+      rotation: {x: 0.42261824, y: 0, z: -0, w: 0.9063078}
+      scale: {x: 0.576928, y: 0.576928, z: 0.576928}
+    - name: Cylinder036
+      parentName: UpperBody
+      position: {x: 0.1378096, y: 0.21992385, z: -0.013701629}
+      rotation: {x: 0.03171837, y: -0.70639503, z: -0.03171837, w: 0.70639503}
+      scale: {x: 1.790122, y: 1.790122, z: 1.147931}
+    - name: Box072
+      parentName: UpperBody
+      position: {x: -0.19703902, y: -0.038588334, z: -0.29527405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box076
+      parentName: UpperBody
+      position: {x: 0.005537872, y: -0.011016083, z: -0.25051498}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

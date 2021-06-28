@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - TeamOneBullet
+  - TeamTwoBullet
+  - TeamOneStoneShard
+  - TeamTwoStoneShard
+  - Boulder
+  - TeamOnePellet
+  - TeamTwoPellet
+  - HazardCollider
+  - Structure
+  - ArmOne
+  - ArmTwo
+  - HazardOne
+  - HazardTwo
+  - TA1_Bullet
+  - TA2_Bullet
+  - AttackDamage_Buff
+  - Armor_Buff
+  - Health_Increase
+  - SpecialHazard
+  - SpecialHazardOne
+  - SpecialHazardTwo
+  - Arena
+  - AIMelee
+  - BossSpot
+  - AIBulletRed
+  - AIBulletBlue
+  - Boss
+  - AISpawn
+  - SmallAIBullet
+  - Blue_SuperMech
+  - Red_SuperMech
+  - AIRed
+  - AIBlue
+  - FireWave_Blue
+  - FireWave_Red
+  - SpecialFlame
+  - SuperMech
+  - VolcanoFlame
+  - Fire
+  - AttackDamage_Buff_2
+  - Armor_Buff_2
+  - Health_Increase_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

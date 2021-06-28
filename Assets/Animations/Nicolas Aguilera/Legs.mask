@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Legs
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_L_Thigh
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_L_Thigh/Mech_rig:BIND_L_Knee
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_L_Thigh/Mech_rig:BIND_L_Knee/Mech_rig:BIND_L_Upper_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_L_Thigh/Mech_rig:BIND_L_Knee/Mech_rig:BIND_L_Upper_Ankle/Mech_rig:BIND_L_Lower_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_L_Thigh/Mech_rig:BIND_L_Knee/Mech_rig:BIND_L_Upper_Ankle/Mech_rig:BIND_L_Lower_Ankle/Mech_rig:BIND_L_Toe
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_R_Thigh
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_R_Thigh/Mech_rig:BIND_R_Knee
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_R_Thigh/Mech_rig:BIND_R_Knee/Mech_rig:BIND_R_Heel
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_R_Thigh/Mech_rig:BIND_R_Knee/Mech_rig:BIND_R_Heel/Mech_rig:BIND_R_Ball
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Hip/Mech_rig:BIND_R_Thigh/Mech_rig:BIND_R_Knee/Mech_rig:BIND_R_Heel/Mech_rig:BIND_R_Ball/Mech_rig:BIND_R_Toe
+    m_Weight: 1
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_L_Shoulder_1
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_L_Shoulder_1/Mech_rig:BIND_L_Shoulder_2
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_L_Shoulder_1/Mech_rig:BIND_L_Shoulder_2/Mech_rig:BIND_L_Elbow
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_L_Shoulder_1/Mech_rig:BIND_L_Shoulder_2/Mech_rig:BIND_L_Elbow/Mech_rig:BIND_L_Hand
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps/Mech_rig:BIND_R_Wrist_Extender_2
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps/Mech_rig:BIND_R_Wrist_Flap_1
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps/Mech_rig:BIND_R_Wrist_Flap_2
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps/Mech_rig:BIND_R_Wrist_Flap_3
+    m_Weight: 0
+  - m_Path: Mech_rig:BIND_Root/Mech_rig:BIND_Spine_2/Mech_rig:BIND_Spine_3/Mech_rig:BIND_R_Shoulder_1/Mech_rig:BIND_R_Shoulder_2/Mech_rig:BIND_R_Elbow/Mech_rig:BIND_R_Wrist_Flaps/Mech_rig:BIND_R_Wrist_Flap_4
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:L_Leg_ik_GRP
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:L_Leg_ik_GRP/Mech_rig:IK_L_Thigh
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:L_Leg_ik_GRP/Mech_rig:IK_L_Thigh/Mech_rig:IK_L_Knee
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:L_Leg_ik_GRP/Mech_rig:IK_L_Thigh/Mech_rig:IK_L_Knee/Mech_rig:IK_L_Upper_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:L_Leg_ik_GRP/Mech_rig:IK_L_Thigh/Mech_rig:IK_L_Knee/Mech_rig:IK_L_Upper_Ankle/Mech_rig:IK_L_Lower_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP/Mech_rig:IK_R_Thigh
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP/Mech_rig:IK_R_Thigh/Mech_rig:IK_R_Knee
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP/Mech_rig:IK_R_Thigh/Mech_rig:IK_R_Knee/Mech_rig:IK_R_Upper_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP/Mech_rig:IK_R_Thigh/Mech_rig:IK_R_Knee/Mech_rig:IK_R_Upper_Ankle/Mech_rig:IK_R_Lower_Ankle
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Hip/Mech_rig:R_Leg_ik_GRP/Mech_rig:IK_R_Thigh/Mech_rig:IK_R_Knee/Mech_rig:IK_R_Upper_Ankle/Mech_rig:IK_R_Lower_Ankle/Mech_rig:IK_R_Toe
+    m_Weight: 1
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:L_Shoulder_1
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:L_Shoulder_1/Mech_rig:L_Shoulder_2
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:L_Shoulder_1/Mech_rig:L_Shoulder_2/Mech_rig:L_Elbow
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:L_Shoulder_1/Mech_rig:L_Shoulder_2/Mech_rig:L_Elbow/Mech_rig:L_Hand
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps/Mech_rig:R_Wrist_Extender_2
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps/Mech_rig:R_Wrist_Flap_1
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps/Mech_rig:R_Wrist_Flap_2
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps/Mech_rig:R_Wrist_Flap_3
+    m_Weight: 0
+  - m_Path: Mech_rig:Controller_Root/Mech_rig:Spine_2/Mech_rig:Spine_3/Mech_rig:R_Shoulder_1/Mech_rig:R_Shoulder_2/Mech_rig:R_Elbow/Mech_rig:R_Wrist_Flaps/Mech_rig:R_Wrist_Flap_4
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL
+    m_Weight: 1
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1
+    m_Weight: 1
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2
+    m_Weight: 1
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL
+    m_Weight: 1
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Hip_CTRL
+    m_Weight: 1
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL/Mech_rig:L_Shoulder_2_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL/Mech_rig:L_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL/Mech_rig:L_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL/Mech_rig:L_Elbow_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:L_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL/Mech_rig:L_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL/Mech_rig:L_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_ex_2_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_ex_2_CTRL_GRP/Mech_rig:R_Gun_Extension_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_1_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_1_CTRL_GRP/Mech_rig:R_Wrist_Flap_1_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_2_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_2_CTRL_GRP/Mech_rig:R_Wrist_Flap_2_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_3_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_3_CTRL_GRP/Mech_rig:R_Wrist_Flap_3_CTRL
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_4_CTRL_GRP
+    m_Weight: 0
+  - m_Path: Mech_rig:Scene_CTRL/Mech_rig:Master_CTRL_1/Mech_rig:Master_CTRL_2/Mech_rig:COG_CTRL/Mech_rig:Spine_1_CTRL/Mech_rig:R_Shoulder_1_CTRL_GRP/Mech_rig:L_Shoulder_1_CTRL
+      1/Mech_rig:R_Shoulder_2_CTRL_GRP/Mech_rig:L_Shoulder_2_CTRL 1/Mech_rig:R_Elbow_CTRL_GRP/Mech_rig:L_Elbow_CTRL
+      1/Mech_rig:R_Wrist_Flaps_CTRL_GRP/Mech_rig:R_Wrist_Flaps_CTRL/Mech_rig:R_Wrist_Flap_4_CTRL_GRP/Mech_rig:R_Wrist_Flap_4_CTRL
+    m_Weight: 0
+  - m_Path: Mesh
+    m_Weight: 1
+  - m_Path: Mesh/Fist
+    m_Weight: 1
+  - m_Path: Mesh/Flap_1
+    m_Weight: 1
+  - m_Path: Mesh/Flap_2
+    m_Weight: 1
+  - m_Path: Mesh/Flap_3
+    m_Weight: 1
+  - m_Path: Mesh/Flap_4
+    m_Weight: 1
+  - m_Path: Mesh/Foot
+    m_Weight: 1
+  - m_Path: Mesh/L_Forearm
+    m_Weight: 1
+  - m_Path: Mesh/L_Lower_Leg_1
+    m_Weight: 1
+  - m_Path: Mesh/L_Lower_Leg_2
+    m_Weight: 1
+  - m_Path: Mesh/L_Shoulder
+    m_Weight: 1
+  - m_Path: Mesh/L_Upper_Arm
+    m_Weight: 1
+  - m_Path: Mesh/L_Upper_Leg
+    m_Weight: 1
+  - m_Path: Mesh/Lower_Body
+    m_Weight: 1
+  - m_Path: Mesh/Mid_low
+    m_Weight: 1
+  - m_Path: Mesh/R_Forearm
+    m_Weight: 1
+  - m_Path: Mesh/R_Lower_Leg_1
+    m_Weight: 1
+  - m_Path: Mesh/R_Lower_Leg_2
+    m_Weight: 1
+  - m_Path: Mesh/R_Shoulder
+    m_Weight: 1
+  - m_Path: Mesh/R_Upper_Arm
+    m_Weight: 1
+  - m_Path: Mesh/R_Upper_Leg
+    m_Weight: 1
+  - m_Path: Mesh/Upper_Body
+    m_Weight: 1
